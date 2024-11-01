@@ -1,0 +1,31 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.stop1 {
+  stop-color: rgb(29, 72, 119);
+}
+.stop2 {
+  stop-color: rgb(27, 138, 90);
+}
+.stop3 {
+  stop-color: rgb(251, 176, 33);
+}
+.stop4 {
+  stop-color: rgb(246, 136, 56);
+}
+.stop5 {
+  stop-color: rgb(238, 62, 50);
+}
+
+#tooltip {
+  text-align: center;
+  position: absolute;
+  padding: 10px;
+  background-color: steelblue;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  display: none;
+  opacity: 0;
+}
