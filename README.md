@@ -4,6 +4,8 @@
 
 This project is part of my [Data Visualization V8 certification from freeCodeCamp](https://www.freecodecamp.org/certification/benonsocial/data-visualization).
 
+https://github.com/user-attachments/assets/5e4bf84b-7f8a-4f6d-83ef-b9b17f6fccd9
+
 ## Objective
 
 Build an app that is functionally similar to this: https://heat-map.freecodecamp.rocks.
