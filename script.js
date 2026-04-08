@@ -1,5 +1,5 @@
 const dataset = await d3.json(
-  'https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json'
+  'data/global-temperature.json'
 );
 dataset.monthlyVariance.map((d) => {
   d.month = d.month - 1;
